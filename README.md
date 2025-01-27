@@ -1,66 +1,88 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Luck2x - Online Casino Script
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+BrixCasino is a cutting-edge online gambling platform designed to revolutionize the user experience with advanced features and a user-friendly interface. Whether you're a seasoned gambler or new to the scene, BrixCasino offers a seamless and secure environment to elevate your gaming adventures.
 
-## About Laravel
+## Demo
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+### Frontend
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- **Link:** [http://brixcasino.xyz/](http://brixcasino.xyz/)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+### Contact Us
+- **Contact Us** [https://www.casino-scripts.com/contact/](https://www.casino-scripts.com/contact/)
+- **E-Mail:** [contact@casino-scripts.com](mailto:contact@casino-scripts.com)
+- **Telegram:** [https://t.me/Casinos_Scripts](https://t.me/Casinos_Scripts)
+- **Website:** [https://www.casino-scripts.com/](https://www.casino-scripts.com/)
 
-## Learning Laravel
+## SCREENSHOTS 
+![HOME]( "HOME")
+![HOME]( "HOME")
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Features
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## Frontend Features
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+- **Home**: The main landing page showcasing the platform's game modes and features.
 
-## Laravel Sponsors
+- **Game Modes**:
+  - **Dice**: Roll virtual dice and bet on the outcome, predicting sums or specific numbers to win rewards.
+  - **Mines**: Select hidden tiles on a grid, aiming to avoid mines while revealing prize multipliers.
+  - **Roulette**: Place bets on a spinning wheel with numbered and colored pockets, predicting where the ball will land.
+  - **Jackpot**: Contribute to a growing prize pool, with a chance to win the entire accumulated jackpot.
+  - **Crash**: Bet on an increasing multiplier and cash out before it crashes to maximize winnings.
+  - **Slots**: Spin reels to align symbols and win big, with various themes and enticing features.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+- **Referral Program**: Earn bonuses by inviting friends or new users to join the platform.
 
-### Premium Partners
+- **Bonuses**: Receive coin bonuses by joining the Telegram channel and waiting 24 hours.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+- **Deposit**: Add funds to your in-game account to participate in various games.
 
-## Contributing
+- **Withdraw**: Transfer accumulated winnings from your in-game account to your personal financial accounts.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+- **User Account**:
+  - **Profile**: View gaming statistics, including ranks, achievements, and performance metrics.
+  - **History**: Access a chronological record of financial transactions, including deposits and withdrawals.
 
-## Code of Conduct
+- **Logout**: Safely sign out from your account.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+## Backend Features
 
-## Security Vulnerabilities
+- **Dashboard**: Overview of the admin dashboard.
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+- **Manage Users**: Control and manage user accounts and permissions.
 
-## License
+- **Bots**: Automated players that simulate real users to maintain an engaging environment.
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+- **Bonuses**: Distribute bonuses to players or groups of players.
+
+- **Giveaways**: Organize events or promotions to distribute prizes or rewards.
+
+- **Promo Codes**: Create and manage alphanumeric codes that players can enter to unlock exclusive bonuses or rewards.
+
+- **Earnings**: Monitor and manage platform-generated revenue.
+
+- **Settings**:
+  - **Manage Game Modes**: Configure game modes, including min/max bets.
+  - **General Information**: Manage platform-wide information.
+  - **Admins**: Manage administrator accounts and permissions.
+  - **Payment Gateways**: Configure and manage payment gateway integrations.
+  - **SEO Configurations**: Optimize platform settings for search engines.
+  - **Fake Betting System**: Manage the betting range for bots.
+
+- **Withdrawals**: Monitor and process user withdrawal requests.
+
+- **Ranks**: Control and manage user ranks and their requirements.
+
+- **Style**: Customize the appearance of user ranks.
+
+- **Tournaments**: Create and manage tournaments and their prizes.
+
+- **Word Filter**: Implement filters to keep the chat free of inappropriate language or unwanted ads.
+
+
+---
+
+Transform your love for gambling into a thrilling and profitable experience with Luck2x. Dive into the world of endless possibilities and start winning today!
+
+> Copyright © 2025 Casino-Scripts.com. All rights reserved.All other trademarks, screenshots, logos and copyrights are the property of Casino-Scripts.com.
