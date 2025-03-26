@@ -3,9 +3,6 @@
 BrixCasino is a cutting-edge online gambling platform designed to revolutionize the user experience with advanced features and a user-friendly interface. Whether you're a seasoned gambler or new to the scene, BrixCasino offers a seamless and secure environment to elevate your gaming adventures.
 
 ## Demo
-
-### Frontend
-
 - **Link:** [http://brixcasino.xyz/](http://brixcasino.xyz/)
 
 ### Contact Us
@@ -14,75 +11,61 @@ BrixCasino is a cutting-edge online gambling platform designed to revolutionize 
 - **Telegram:** [https://t.me/Casinos_Scripts](https://t.me/Casinos_Scripts)
 - **Website:** [https://www.casino-scripts.com/](https://www.casino-scripts.com/)
 
+## Video for Installation
+- **Link:** []()
+
 ## SCREENSHOTS 
 ![HOME]( "HOME")
 ![HOME]( "HOME")
 
-## Features
+
+BrixCasino is a cutting-edge online gambling platform designed to revolutionize the way users experience betting and winning. With advanced features and a user-friendly interface, BrixCasino offers an unparalleled gambling experience for enthusiasts.
+
+Whether you're a seasoned gambler seeking high-stakes action or someone eager to test their luck, BrixCasino provides a seamless and secure platform to elevate your chances of winning. Our unique winning system offers incredible opportunities based on strategic gambling choices, transforming your love for gambling into a highly profitable endeavor.
 
 ## Frontend Features
 
 - **Home**: The main landing page showcasing the platform's game modes and features.
-
-- **Game Modes**:
-  - **Dice**: Roll virtual dice and bet on the outcome, predicting sums or specific numbers to win rewards.
-  - **Mines**: Select hidden tiles on a grid, aiming to avoid mines while revealing prize multipliers.
-  - **Roulette**: Place bets on a spinning wheel with numbered and colored pockets, predicting where the ball will land.
-  - **Jackpot**: Contribute to a growing prize pool, with a chance to win the entire accumulated jackpot.
-  - **Crash**: Bet on an increasing multiplier and cash out before it crashes to maximize winnings.
-  - **Slots**: Spin reels to align symbols and win big, with various themes and enticing features.
-
+- **Game Modes**: A variety of engaging game modes, including:
+  - **Dice**: Predict the outcome of virtual dice rolls to win rewards.
+  - **Mines**: Select hidden tiles on a grid, avoiding mines while revealing prize multipliers.
+  - **Roulette**: Place bets on a spinning wheel, predicting where the ball will land.
+  - **Jackpot**: Contribute to a growing prize pool for a chance to win the entire jackpot.
+  - **Crash**: Bet on an increasing multiplier, cashing out before it crashes.
+  - **Slots**: Spin reels to align symbols and win big, with various themes and bonus features.
 - **Referral Program**: Earn bonuses by inviting friends or new users to join the platform.
-
 - **Bonuses**: Receive coin bonuses by joining the Telegram channel and waiting 24 hours.
-
 - **Deposit**: Add funds to your in-game account to participate in various games.
-
 - **Withdraw**: Transfer accumulated winnings from your in-game account to your personal financial accounts.
-
-- **User Account**:
-  - **Profile**: View gaming statistics, including ranks, achievements, and performance metrics.
-  - **History**: Access a chronological record of financial transactions, including deposits and withdrawals.
-
+- **User Account**: Access your profile and gaming statistics:
+  - **Profile**: View gaming statistics, including ranks and achievements.
+  - **History**: Track financial transactions, including deposits and withdrawals.
 - **Logout**: Safely sign out from your account.
 
 ## Backend Features
 
 - **Dashboard**: Overview of the admin dashboard.
-
 - **Manage Users**: Control and manage user accounts and permissions.
-
 - **Bots**: Automated players that simulate real users to maintain an engaging environment.
-
 - **Bonuses**: Distribute bonuses to players or groups of players.
-
-- **Giveaways**: Organize events or promotions to distribute prizes or rewards.
-
-- **Promo Codes**: Create and manage alphanumeric codes that players can enter to unlock exclusive bonuses or rewards.
-
-- **Earnings**: Monitor and manage platform-generated revenue.
-
-- **Settings**:
-  - **Manage Game Modes**: Configure game modes, including min/max bets.
-  - **General Information**: Manage platform-wide information.
+- **Giveaways**: Organize events to distribute prizes or rewards to players.
+- **Promo Codes**: Create codes that players can enter to unlock exclusive bonuses or rewards.
+- **Earnings**: Monitor and manage revenue generated on the platform.
+- **Settings**: Configure general platform settings:
+  - **Manage Game Modes**: Adjust information about game modes, such as minimum and maximum bets.
+  - **General Information**: Provide and manage general platform information.
   - **Admins**: Manage administrator accounts and permissions.
   - **Payment Gateways**: Configure and manage payment gateway integrations.
-  - **SEO Configurations**: Optimize platform settings for search engines.
-  - **Fake Betting System**: Manage the betting range for bots.
-
+  - **SEO Configurations**: Optimize platform settings for search engine visibility.
+  - **Fake Betting System**: Manage the maximum and minimum amounts that bots should bet.
 - **Withdrawals**: Monitor and process user withdrawal requests.
-
-- **Ranks**: Control and manage user ranks and their requirements.
-
-- **Style**: Customize the appearance of user ranks.
-
+- **Ranks**: Control and manage ranks and their requirements.
+- **Style**: Manage the visual styles for ranks.
 - **Tournaments**: Create and manage tournaments and their prizes.
+- **Word Filter**: Add filters to keep the chat free of inappropriate words or unwanted advertisements.
 
-- **Word Filter**: Implement filters to keep the chat free of inappropriate language or unwanted ads.
-
+Experience the thrill of gambling like never before with BrixCasino, where excitement meets opportunity!
 
 ---
 
-Transform your love for gambling into a thrilling and profitable experience with Luck2x. Dive into the world of endless possibilities and start winning today!
-
-> Copyright © 2025 Casino-Scripts.com. All rights reserved.All other trademarks, screenshots, logos and copyrights are the property of Casino-Scripts.com.
+> Copyright © 2025 Casino-Scripts.com. All rights reserved. All other trademarks, screenshots, logos and copyrights are the property of Casino-Scripts.com.
