@@ -11,9 +11,6 @@ BrixCasino is a cutting-edge online gambling platform designed to revolutionize 
 - **Telegram:** [https://t.me/Casinos_Scripts](https://t.me/Casinos_Scripts)
 - **Website:** [https://www.casino-scripts.com/](https://www.casino-scripts.com/)
 
-## Video for Installation
-- **Link:** []()
-
 ## SCREENSHOTS 
 ![HOME](https://i.ibb.co/V0fmYNx6/Screenshot-2025-03-29-191007.png "HOME")
 ![Mines](https://i.ibb.co/8n6TmcM7/Screenshot-2025-03-29-191030.png "Mines")
