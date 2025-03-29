@@ -1,4 +1,4 @@
-# Luck2x - Online Casino Script
+# Brix Casino Script - Online Casino Script
 
 BrixCasino is a cutting-edge online gambling platform designed to revolutionize the user experience with advanced features and a user-friendly interface. Whether you're a seasoned gambler or new to the scene, BrixCasino offers a seamless and secure environment to elevate your gaming adventures.
 
