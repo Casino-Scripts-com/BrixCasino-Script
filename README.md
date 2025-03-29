@@ -15,8 +15,8 @@ BrixCasino is a cutting-edge online gambling platform designed to revolutionize 
 - **Link:** []()
 
 ## SCREENSHOTS 
-![HOME]( "https://i.ibb.co/V0fmYNx6/Screenshot-2025-03-29-191007.png")
-![HOME]( "https://i.ibb.co/8n6TmcM7/Screenshot-2025-03-29-191030.png")
+![HOME]("https://i.ibb.co/V0fmYNx6/Screenshot-2025-03-29-191007.png")
+![HOME]("https://i.ibb.co/8n6TmcM7/Screenshot-2025-03-29-191030.png")
 
 
 BrixCasino is a cutting-edge online gambling platform designed to revolutionize the way users experience betting and winning. With advanced features and a user-friendly interface, BrixCasino offers an unparalleled gambling experience for enthusiasts.
